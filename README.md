@@ -34,23 +34,17 @@ Chinese Translation for the book: "THE OPEN SOURCE WAY 2.0"
 - 虽然本书的大章节（`##` 标识的的二级标题）和小章节（`###` 标识的的三级标题）都已经被标识出来并分开。但是，你仍然需要参考pdf原文，确保被标识为粗体字（`**xxx**`）但实际上是四级/五级（使用四个或五个`#`标识）标题的文字被正确使用`#`标识。
 
 
-## 校对人员
-
-这里列出了在你翻译完成之后可以申请进行校对的 Reviewer
-- DevinGeng (gh-Devin)
-- Cubik (Cubik65536)
-
 ## 章节
 
 - [x] 开源之路的呈现  
-   - [ ] The Shape of Things (I.e., Assumptions We Are Making).  
+   - [x] 事物的形状（换句话说，我们所做的假设）
    - [ ] Structure of This Guide.  
    - [ ] A Community of Practice Always Rebuilding Itself.  
-- [ ] Getting Started.  
+- [ ] 开始
    - [ ] Community 101: Understanding, Joining, or Forming a New Community  
    - [ ] New Project Checklist.  
    - [ ] Creating an Open Source Product Strategy.  
-- [ ] Attracting Users  
+- [x] 吸引用户  
    - [ ] Communication Norms in Open Source Software Projects.  
    - [ ] To Build Diverse Open Source Communities, Make Them Inclusive First.  
 - [ ] Guiding Participants.  
